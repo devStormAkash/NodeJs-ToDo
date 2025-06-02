@@ -1,0 +1,7 @@
+1 - Wake up
+2 - Breakfast
+3 - Study for 2 hours
+4 - Watching Cartoons
+5 - Go to college
+6 - Attending professors lecture
+7 - Lunch Break
